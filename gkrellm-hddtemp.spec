@@ -11,6 +11,7 @@ Source0:	http://www.guzu.net/linux/%{name}-%{version}-%{_beta}.tar.gz
 URL:		http://www.guzu.net/linux/hddtemp.php
 BuildRequires:	gkrellm-devel >= 2.0
 BuildRequires:	gtk+2-devel
+BuildRequires:	pkgconfig
 Requires:	gkrellm >= 2.0
 Requires:	hddtemp-hddtempd
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
