@@ -7,7 +7,7 @@ Release:	0.%{_beta}.1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.guzu.net/linux/%{name}-%{version}-%{_beta}.tar.gz
-# Source0-md5	cbce1f74cac05ce2264fa
+# Source0-md5:	b4f3b90692acbce1f74cac05ce2264fa
 URL:		http://www.guzu.net/linux/hddtemp.php
 BuildRequires:	gkrellm-devel >= 2.0
 BuildRequires:	gtk+2-devel
