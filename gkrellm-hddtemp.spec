@@ -1,6 +1,6 @@
 %define		_beta beta
 Summary:	Hddtemp plugin for GKrellM
-Summary(pl):	Wtyczka hddtemp dla GKrellM
+Summary(pl.UTF-8):   Wtyczka hddtemp dla GKrellM
 Name:		gkrellm-hddtemp
 Version:	0.2
 Release:	0.%{_beta}.2
@@ -19,7 +19,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Hard disk drive temperature plugin for GKrellM.
 
-%description -l pl
+%description -l pl.UTF-8
 Wtyczka pomiaru temperatury twardego dysku dla GKrellM.
 
 %prep
