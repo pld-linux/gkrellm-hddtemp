@@ -1,6 +1,6 @@
 %define		_beta beta
 Summary:	Hddtemp plugin for GKrellM
-Summary(pl.UTF-8):   Wtyczka hddtemp dla GKrellM
+Summary(pl.UTF-8):	Wtyczka hddtemp dla GKrellM
 Name:		gkrellm-hddtemp
 Version:	0.2
 Release:	0.%{_beta}.2
